@@ -1,9 +1,7 @@
 fastapi
-uvicorn[standard]
-opencv-python
+uvicorn
+tensorflow==2.8.0
+opencv-python-headless
 numpy
-tensorflow
+pydantic
 python-multipart
-requests
-Pillow
-aiofiles
