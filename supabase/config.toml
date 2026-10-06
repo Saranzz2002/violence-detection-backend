@@ -1,0 +1,7 @@
+project_id = "xcxmgofdderxwkwicjea"
+
+[functions.predict-frame]
+verify_jwt = false
+
+[functions.analyze-video]
+verify_jwt = false
